@@ -3,9 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "main": "script.js",
-    "scripts": {
-        "start:babel": "babel script.js --watch--out-file script-compiled.js"
-    },
+    "scripts": {},
     "repository": {
         "type": "git",
         "url": "https://github.com/MichalAW/18.8.Gif-search-engine.git"
