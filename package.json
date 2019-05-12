@@ -2,7 +2,7 @@
     "name": "19.4.ES6-Syntax",
     "version": "1.0.0",
     "description": "",
-    "main": "script.js",
+    "main": "index.html",
     "scripts": {},
     "repository": {
         "type": "git",
@@ -15,9 +15,6 @@
         "url": "https://github.com/MichalAW/18.8.Gif-search-engine/issues"
     },
     "homepage": "https://github.com/MichalAW/18.8.Gif-search-engine#readme",
-    "devDependencies": {
-        "http-server": "^0.11.1"
-    },
-    "dependencies": {
-    }
+    "devDependencies": {},
+    "dependencies": {}
 }
