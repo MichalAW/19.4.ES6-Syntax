@@ -1,6 +1,6 @@
 'use strict';
 
-let a = "Hello",
+const a = "Hello",
 b = "World"
-console.log(`${a} ${b}`)
+console.log(`${a} ${b}`);
 

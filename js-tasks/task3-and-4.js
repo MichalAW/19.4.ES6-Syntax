@@ -3,11 +3,9 @@
 const grades = [1, 5, 5, 5, 4, 3, 3, 2, 1];
 
 const average = (...args) => {
-  let score = 0;
-  for (let i = 0; i < args.length; i++) {
-    score += args[i];
-  }
-  console.log(`average is: ${score / args.length}`);
+  	const score = 0;
+  	const result = score.reduce((total, amount) => score += args[i]);
+  	result; //
 };
 
 average(1); // 1
